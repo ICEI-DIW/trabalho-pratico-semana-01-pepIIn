@@ -3,8 +3,8 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Pedro Fagundes Lima Monteze Caneschi
-Matricula: 890279
+<p> Nome: Pedro Fagundes Lima Monteze Caneschi </p>
+<p> Matricula: 890279 </p>
 
 ## Tela de inspeção com navegador
 
