@@ -7,7 +7,7 @@ Nome: Pedro Fagundes Lima Monteze Caneschi
 Matricula: 890279
 
 ## Tela de inspeção com navegador
-
+![alt text](portal.png)
 
 ## Tela de projeto no Replit
-
+![alt text](replit.png)
